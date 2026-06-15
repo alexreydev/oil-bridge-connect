@@ -22,7 +22,6 @@ import {
   ShoppingCart,
   Ship,
   Target,
-  Truck,
   Twitter,
   Wallet,
   Zap,
