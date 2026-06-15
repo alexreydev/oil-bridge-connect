@@ -15,7 +15,7 @@ import {
   Mail,
   MapPin,
   MessageCircle,
-  Package,
+  Mail,
   Phone,
   Search,
   ShieldCheck,
@@ -914,5 +914,3 @@ function FooterCol({ title, items }: { title: string; items: [string, string][] 
     </div>
   );
 }
-
-export { Truck, Package };
